@@ -6,7 +6,7 @@ update @ 2022/09/13
 
 1. use SPI0 / SPI / LLSI0~3 , to drive LED stripe
 
-	SPI0 port:	
+	[SPI0 port]	
 	
 	MOSI	:PA0	
 	
@@ -14,7 +14,7 @@ update @ 2022/09/13
 	
 	SS		:PA3
 
-	SPI1 port:	
+	[SPI1 port]	
 	
 	MOSI	:PB4	
 	
@@ -22,7 +22,7 @@ update @ 2022/09/13
 	
 	SS		:PB2	
 
-	LLSI port:	
+	[LLSI port]	
 	
 	LLSI0	:PC5
 	
